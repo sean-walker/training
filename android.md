@@ -25,10 +25,10 @@ you're already familiar with it.
   for compatibility with the rest of the team.
 * For starters, especially if you haven't written any Android before, we refer you
   to the official [beginner tutorial](https://developer.android.com/training/index.html).
-* This tutorial should get you familiar with the Android application life-cycle.
-  It introduces the basic Android concepts, such as _Activities_, _Views_,
-  _Intents_, and UI layouts. Through the tutorial, you should also learn how to
-  utilize the various features that Android devices provide.
+  * This tutorial should get you familiar with the Android application life-cycle.
+    It introduces the basic Android concepts, such as _Activities_, _Views_,
+    _Intents_, and UI layouts. Through the tutorial, you should also learn how to
+    utilize the various features that Android devices provide.
 * [CodePath](https://guides.codepath.com/android) is another wonderful resource
   for both the basics and the more advanced concepts. 
 
