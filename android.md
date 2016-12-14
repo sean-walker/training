@@ -40,7 +40,7 @@ APIs, and UI/UX.
 For this task, you will build a gallery app that:
 
 - Pulls its data from [Yale's Flickr](https://www.flickr.com/photos/yaleuniversity/sets/)
-  (see [Flickr API](flickr.com/services/api/)).
+  (see [Flickr API](https://www.flickr.com/services/api/)).
 - Displays the images in an appealing way (get creative!).
 - Allows viewing individual images (in a separate window or the same one - up to
   you).
