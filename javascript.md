@@ -1,6 +1,5 @@
 # Yale SDMP - JavaScript Team Self-Guided Training
 
-# JS Team Training Program
 1. Go to [Lynda](https://lynda.com/portal/yale)
 2. _Lynda: JavaScript Essential Training_ (Maximum 6 Hours if starting from no
    JavaScript knowledge)
